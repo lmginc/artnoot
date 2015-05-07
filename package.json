@@ -1,0 +1,25 @@
+{
+  "name": "artnoot",
+  "version": "1.0.0",
+  "description": "An artnet implementation for io.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJkrusinski/artnoot.git"
+  },
+  "keywords": [
+    "artnet",
+    "art-net",
+    "lighting",
+    "dmx"
+  ],
+  "author": "TJ Krusinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJkrusinski/artnoot/issues"
+  },
+  "homepage": "https://github.com/TJkrusinski/artnoot#readme"
+}
