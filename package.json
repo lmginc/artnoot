@@ -1,6 +1,6 @@
 {
   "name": "artnoot",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "An artnet implementation for io.js",
   "main": "index.js",
   "scripts": {
