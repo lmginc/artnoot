@@ -28,7 +28,7 @@ var client = new artnoot.Client({
  */
 
 // send on universe 1, channel 23, value 19
-client.send(1, 23, 19);
+client.set(1, 23, 19);
 
 /**
  *  If you want to bail
